@@ -1,0 +1,22 @@
+# OS files
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual env
+env_Atm/
+venv/
+.env/
+
+# Models
+*.pth
+
+# Streamlit cache
+.streamlit/
+
+# Other
+*.pdf

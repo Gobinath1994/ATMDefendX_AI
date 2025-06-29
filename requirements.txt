@@ -1,0 +1,9 @@
+bing-image-downloader
+opencv-python-headless
+Pillow
+tqdm
+torch
+torchvision
+requests
+streamlit
+FPDF
