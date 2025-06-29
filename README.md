@@ -1,4 +1,4 @@
-# 🛡️ # ATMDefendX – CV-Powered ATM Tampering Detection Framework
+# 🛡️ ATMDefendX – CV-Powered ATM Tampering Detection Framework
 
 This project simulates and detects ATM tampering activities like card skimming, hidden cameras, fake keypads, and stickers using computer vision techniques and a Siamese neural network.
 
